@@ -1,0 +1,13 @@
+{
+    "employee":[
+        {
+            "id":1,
+            "name":"abv",
+            "phone":"9696584758",
+            "city":"pune",
+            "address1":"pune",
+            "address2":"pune",
+            "postal_code":1234
+        }
+    ]
+}
